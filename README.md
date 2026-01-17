@@ -21,6 +21,6 @@ This repository is actively updated to reflect my daily progress, improvements, 
 ## 🎯 Purpose
 The goal of this portfolio is to present a professional digital identity, demonstrate technical capabilities, and serve as a platform for future opportunities, collaborations, and learning.
 ## 🌐 Live Website
-https://alicheema.github.io
+https://ali-ahmed-cheema.github.io
 ## 📌 Status
 🟢 Actively maintained and improved daily.
